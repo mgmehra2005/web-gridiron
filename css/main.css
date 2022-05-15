@@ -1,0 +1,68 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.navbar{
+  display: flex;
+}
+.navbar-left{
+  width: 50%;
+  padding: 23px;
+}
+.header{
+  color: orange;
+  font-size: 20px;
+}
+.nav-list{
+  display: flex;
+  text-align: right;
+  font-family: "Century Schoolbook L";
+  font-size: 18px;
+}
+
+.nav-list li{
+  list-style: none;
+  padding: 30px;
+}
+
+
+.nav-list li a{
+  text-decoration: none;
+  color: orange;
+}
+.nav-list li a:hover{
+  text-decoration: none;
+  color: yellow;
+  background-blend-mode: darken;
+}
+
+.navbar-right{
+  width: 50%;
+  text-align: right;
+}
+
+.background{
+  background: black url("/img/background.jpg");
+  background-size: cover;
+  height: 100vh;
+}
+.first-section{
+  height: 84vh;
+}
+.box-main{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  font-family: SansSerif;
+}
+.first-half-text{
+  width: 80%;
+  display: flex;
+  justify-content: center;
+}
+.second-half-text{
+  width: 30%;
+
+}
