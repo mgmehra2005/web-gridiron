@@ -43,7 +43,7 @@
 }
 
 .background{
-  background: black url("/img/background.jpg");
+  background: black url("/background.jpg");
   background-size: cover;
   height: 100vh;
 }
