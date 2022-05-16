@@ -17,7 +17,7 @@
 .nav-list{
   display: flex;
   text-align: right;
-  font-family: "Century Schoolbook L";
+  font-family: "Century Schoolbook L", sans-serif;
   font-size: 18px;
 }
 
@@ -42,10 +42,14 @@
   text-align: right;
 }
 
-.background{
-  background: black url("/background.jpg");
+.background_1{
+  background: black url("/img/background.jpg");
   background-size: cover;
   height: 100vh;
+}
+.background{
+  background: black url("/img/background.jpg");
+  background-size: cover;
 }
 .first-section{
   height: 84vh;
@@ -53,16 +57,20 @@
 .box-main{
   display: flex;
   justify-content: center;
-  align-items: center;
+  align-content: center;
   color: white;
-  font-family: SansSerif;
+  font-family: SansSerif, serif;
 }
 .first-half-text{
-  width: 80%;
+  height: 80%;
   display: flex;
   justify-content: center;
+  color: white;
+  align-content: center;
+  align-items: center;
+  font-family: SansSerif;
+  font-size: 30px;
 }
-.second-half-text{
-  width: 30%;
 
-}
+
+
