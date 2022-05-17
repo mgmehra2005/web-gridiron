@@ -46,6 +46,7 @@
   background: black url("/img/background.png");
   background-size: cover;
   height: 100vh;
+
 }
 .background{
   background: black url("/img/background.png");
@@ -62,13 +63,15 @@
   font-family: SansSerif, serif;
 }
 .first-half-text{
-  height: 80%;
+  margin-top: 15%;
+  margin-right: 10%;
+  margin-left: 10%;
   display: flex;
   justify-content: center;
   color: white;
   align-content: center;
   align-items: center;
-  font-family: SansSerif;
+  font-family: SansSerif, sans-serif;
   font-size: 30px;
 }
 

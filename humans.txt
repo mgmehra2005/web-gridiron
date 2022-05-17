@@ -2,12 +2,12 @@
 # The humans responsible & technology colophon
 
 # TEAM
-
-    <name> -- <role> -- <twitter>
+    Name : MG
+    Site : github.com/mgmehra2005
 
 # THANKS
 
-    <name>
+    <Google.com, Tailwind CSS>
 
 # TECHNOLOGY COLOPHON
 
