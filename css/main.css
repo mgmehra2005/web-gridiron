@@ -43,13 +43,13 @@
 }
 
 .background_1{
-  background: black url("/img/background.png");
+  background: black url(/img/background.png);
   background-size: cover;
   height: 100vh;
 
 }
 .background{
-  background: black url("/img/background.png");
+  background: black url(/img/background.png);
   background-size: cover;
 }
 .first-section{
