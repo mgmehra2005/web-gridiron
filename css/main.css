@@ -43,13 +43,13 @@
 }
 
 .background_1{
-  background: url(img/background.png);
+  background: black url(/web-gridiron/img/background.png);
   background-size: cover;
   height: 100vh;
 
 }
 .background{
-  background: url(/img/background.png);
+  background: black url(/web-gridiron/img/background.png);
   background-size: cover;
 }
 .first-section{
